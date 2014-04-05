@@ -1,0 +1,132 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+#header{
+	width:100%;
+	height:80px;
+	background-color:#003;
+	opacity:0.5;
+}
+
+#imagenpie{
+	position:absolute;
+	top:20%;
+	left:33%;
+	height:20px;
+	width:30px;
+}
+
+#letra{
+	position:absolute;
+	left:1000px;
+	color:#FFF;
+	top: 20px;
+	
+	font-size:26px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	float: right
+
+}
+
+#paginatotal{
+	height:100%;
+	width:100%;
+}
+
+
+
+#logo{
+	position:absolute;
+	top:10px;
+	left:20px;
+	height:60px;
+	float:left;
+	width:230px;
+}
+
+
+
+#formulario{
+	position:absolute;
+	top:140px;
+	left:65%;
+	float: right;
+	height:290px;
+	width:290px;
+	padding:25px;
+	background-color:#FBF5EA;
+	
+}
+
+
+
+#contenedor-pie {
+width: 100%;
+background-color:#2E2EFE;
+position: absolute;
+bottom: 0 !importante;
+bottom: -1px;
+height: 40px;
+}
+
+#btnboton{
+	padding:5px;
+	background-color: #006;
+	border-radius:10px;
+	color: #FFF;
+	font-size:18px;
+	cursor:pointer;
+	float:right;
+}
+
+#contra{
+	padding:5px;
+	width:270px;
+	display:block;
+	border-radius:5px;
+	cursor:pointer;
+}
+
+#inicio{
+	color:#06F;
+	font-size:18px;	
+}
+
+#user{
+	display:block;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+#pass{
+	display:block;
+	
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+#btnayuda{
+	border-radius:5px;
+	color:#FFF;
+	background-color:#006;
+	cursor:pointer;
+		
+}
+
+#usuario{
+	padding:5px;
+	width:270px;
+	border-radius:5px;
+	display:block;
+	cursor:pointer;
+}
+
+#piepagina{
+	margin-top:10px;
+	color:#FFF;
+	font-style:italic;	
+}
