@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="5" key="TransformWizard_SelectedDefaultPrecision"/>
+	<item value="true" key="TransformWizard_SelectedAnnotations"/>
+	<item value="Type" key="TransformWizard_SelectedTypeTableSuffix"/>
+	<item value="CHAR" key="TransformWizard_SelectedDefaultDataType"/>
+	<item value="true" key="TransformWizard_SelectedLabels"/>
+	<item value="false" key="TransformWizard_SelectedSequence"/>
+	<item value="false" key="TransformWizard_SelectedExistingNameCase"/>
+	<item value="true" key="TransformWizard_SelectedNameSource"/>
+	<item value="2" key="TransformWizard_SelectedDefaultScale"/>
+	<item value="false" key="TransformWizard_SelectedLabelSource"/>
+	<item value="_x_" key="TransformWizard_SelectedJoinTableName"/>
+	<item value="C:\Program Files (x86)\IBM\SDPShared\plugins\com.ibm.datatools.core.ui_3.0.100.v200811190853\templates\PhysicalModel\" key="TransformWizard_TemplateFolder"/>
+	<item value="Oracle" key="TransformWizard_SelectedDatabaseType"/>
+	<item value="false" key="TransformWizard_SelectedLowerNameCase"/>
+	<item value="true" key="TransformWizard_SelectedCreateDiagrams"/>
+	<item value="10" key="TransformWizard_SelectedDefaultLength"/>
+	<item value="false" key="TransformWizard_SelectedCreateTraceability"/>
+	<item value="true" key="TransformWizard_SelectedURLs"/>
+	<item value="false" key="TransformWizard_CreateFromTemplate"/>
+	<item value="true" key="TransformWizard_SelectedDependencies"/>
+	<item value="false" key="TransformWizard_SelectedTitleNameCase"/>
+	<item value="true" key="TransformWizard_SelectedIdentityColumn"/>
+	<item value="true" key="TransformWizard_SelectedComments"/>
+	<item value="true" key="TransformWizard_SelectedUpperNameCase"/>
+	<item value="10" key="TransformWizard_SelectedDatabaseVersion"/>
+	<item value="false" key="TransformWizard_SelectedKeyColumnOrder"/>
+</section>

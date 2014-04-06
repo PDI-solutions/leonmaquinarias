@@ -1,0 +1,7 @@
+#Sat Apr 05 18:39:22 COT 2014
+remoteHelpPath=/infocenter/rsawshlp/v7r5m0,/infocenter/rdahelp/v7r5,/help
+eclipse.preferences.version=1
+remoteHelpPort=80,80,63650
+remoteHelpName=RSA for WebSphere Infocenter,RDA Infocenter,Local
+remoteHelpICEnabled=true,true,false
+remoteHelpHost=publib.boulder.ibm.com,publib.boulder.ibm.com,127.0.0.1
